@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Ajay",
+        "goods": [
+            {
+                "goodname": "Onion",
+                "price": 40,
+                "whereStored": "Vedant's Warehouse",
+                "address": "Anandnagar, Nanded",
+                "quantity": 50,
+                "status": false,
+                "rent": 3.7,
+                "src": "../../../android/app/src/main/res/drawable/onion.jpg"
+            },
+            {
+                "goodname": "Cotton",
+                "price": 30,
+                "whereStored": "Tohel's Warehouse",
+                "address": "Kandhar, Nanded",
+                "quantity": 30,
+                "status": false,
+                "rent": 3.9
+            },
+            {
+                "goodname": "Turmeric",
+                "price": 40,
+                "whereStored": "Vedant's Warehouse",
+                "address": "Anandnagar, Nanded",
+                "quantity": 72,
+                "status": false,
+                "rent": 3.7
+            }
+        ]
+    },
+    {
+        "name": "Rohan",
+        "goods": [
+            {
+                "price": 25,
+                "whereStored": "Vedant's Warehouse",
+                "address": "Anandnagar, Nanded",
+                "quantity": 50,
+                "status": false,
+                "rent": 3.7
+            },
+            {
+                "goodname": "Wheat",
+                "price": 30,
+                "whereStored": "Tohel's Warehouse",
+                "address": "Kandhar, Nanded",
+                "quantity": 30,
+                "status": false,
+                "rent": 3.9
+            },
+            {
+                "goodname": "Turmeric",
+                "price": 40,
+                "whereStored": "Jayesh's Warehouse",
+                "address": "Bhokar, Nanded",
+                "quantity": 72,
+                "status": false,
+                "rent": 4.2
+            }
+        ]
+    },
+    {
+        "name": "Kishanlal",
+        "goods": [
+            {
+                "goodname": "Cotton",
+                "price": 40,
+                "whereStored": "Vedant's Warehouse",
+                "address": "Anandnagar, Nanded",
+                "quantity": 50,
+                "status": false,
+                "rent": 3.7
+            },
+            {
+                "goodname": "Potato",
+                "price": 30,
+                "whereStored": "Tohel's Warehouse",
+                "address": "Kandhar, Nanded",
+                "quantity": 30,
+                "status": false,
+                "rent": 3.9
+            },
+            {
+                "goodname": "Turmeric",
+                "price": 40,
+                "whereStored": "Vedant's Warehouse",
+                "address": "Anandnagar, Nanded",
+                "quantity": 72,
+                "status": false,
+                "rent": 3.7
+            }
+        ]
+    },
+    {
+        "name": "Dhondiba",
+        "goods": [
+            {
+                "goodname": "Wheat",
+                "price": 40,
+                "whereStored": "Vedant's Warehouse",
+                "address": "Anandnagar, Nanded",
+                "quantity": 50,
+                "status": false,
+                "rent": 3.7
+            },
+            {
+                "goodname": "Cotton",
+                "price": 30,
+                "whereStored": "Tohel's Warehouse",
+                "address": "Kandhar, Nanded",
+                "quantity": 30,
+                "status": false,
+                "rent": 3.9
+            },
+            {
+                "goodname": "Rice",
+                "price": 40,
+                "whereStored": "Vedant's Warehouse",
+                "address": "Anandnagar, Nanded",
+                "quantity": 72,
+                "status": false,
+                "rent": 3.7
+            }
+        ]
+    }
+]

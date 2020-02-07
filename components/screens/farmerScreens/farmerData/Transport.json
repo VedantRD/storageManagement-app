@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Bhutada Transportation Ltd",
+        "AvailableVehicles": 1,
+        "Capacity": 1,
+        "rate": 20,
+        "rating": 3,
+        "vehicle": "Truck"
+    },
+    {
+        "id": "2",
+        "name": "Rokade Transportation",
+        "AvailableVehicles": 1,
+        "Capacity": 0.5,
+        "rate": 18,
+        "rating": 3.5,
+        "vehicle": "Tractor"
+    },
+    {
+        "id": "3",
+        "name": "Amaan Transportation Services",
+        "AvailableVehicles": 1,
+        "Capacity": 2,
+        "rate": 22,
+        "rating": 2,
+        "vehicle": "Tractor"
+    },
+    {
+        "id": "4",
+        "name": "Gadpallewar Transportation",
+        "AvailableVehicles": 1,
+        "Capacity": 5,
+        "rate": 20,
+        "rating": 3,
+        "vehicle": "Tempo"
+    }
+]
